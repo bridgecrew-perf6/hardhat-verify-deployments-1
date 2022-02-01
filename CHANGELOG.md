@@ -7,8 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2022-01-11
+## [0.2.0] - 2022-01-31
+
+-   Upgrade hardhat-deploy to 0.10.0
+-   Upgrade hardhat-etherscan to 3.0.0
+
+## [0.1.1] - 2022-01-11
+
+-   Fix npm package content
+
+## [0.1.0] - 2022-01-11
 
 -   First release
 
-[1.0.0]: https://github.com/cartesi/hardhat-verify-deployments/releases/tag/v1.0.0
+[0.2.0]: https://github.com/cartesi/hardhat-verify-deployments/releases/tag/v0.2.0
+[0.1.1]: https://github.com/cartesi/hardhat-verify-deployments/releases/tag/v0.1.1
+[0.1.0]: https://github.com/cartesi/hardhat-verify-deployments/releases/tag/v0.1.0
